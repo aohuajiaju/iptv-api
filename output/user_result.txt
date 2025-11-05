@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2025-11-05 06:18:10,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
+2025-11-05 18:22:14,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-4,http://sh.lnott.top:880/dx04.m3u8$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -14,7 +15,6 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订�
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036$订阅源
-黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv$订阅源
 安徽卫视,http://sh.lnott.top:880/dx34.m3u8$订阅源
 安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
@@ -25,6 +25,7 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订�
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
+贵州卫视,http://sh.lnott.top:880/dx50.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 海南卫视,http://113.106.171.234:8899/rtp/239.20.0.155:2108$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
@@ -32,7 +33,6 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订�
 河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
-江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8$订阅源
 江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://sh.lnott.top:880/dx43.m3u8$订阅源
@@ -67,8 +67,8 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订�
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8$订阅源
 西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
-新疆卫视,http://sh.lnott.top:880/dx55.m3u8$订阅源
 新疆卫视,http://113.106.171.234:8899/rtp/239.20.0.158:2114$订阅源
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8$订阅源
 新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8$订阅源
 云南卫视,http://sh.lnott.top:880/dx49.m3u8$订阅源
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8$订阅源
