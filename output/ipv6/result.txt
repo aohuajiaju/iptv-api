@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-16 06:14:56,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
+2025-11-16 18:18:55,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
@@ -16,6 +16,7 @@ CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
 CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48$订阅源
+CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121$订阅源
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080$订阅源
 CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356$订阅源
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
@@ -46,8 +47,8 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 东方卫视,https://live.chinacert.cftest5.cn/mg/?id=651632648$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a$订阅源
-东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
 海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502$订阅源
