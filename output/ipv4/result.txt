@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-24 18:23:09,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
+2025-11-25 06:19:01,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
 CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -42,8 +41,8 @@ CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://112.6.239.227:8207/hls/26/index.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
-四川卫视,http://xtvantsc.xyz/Smart.php?id=sichuan_twn$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
+四川卫视,http://xtvantsc.xyz/Smart.php?id=sichuan_twn$订阅源
 四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8$订阅源
 深圳卫视,http://112.6.239.227:8207/hls/20/index.m3u8$订阅源
 天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8$订阅源
