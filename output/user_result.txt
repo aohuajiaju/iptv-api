@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2025-12-09 18:25:11,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+2025-12-10 06:20:46,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8$订阅源
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8$订阅源
@@ -51,7 +49,6 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河北卫视,http://183.220.107.138:4022/rtp/239.11.0.31:5140$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140$订阅源
 吉林卫视,http://60.13.52.236:65500/newlive/live/hls/41/live.m3u8$订阅源
