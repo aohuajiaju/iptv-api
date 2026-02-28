@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 06:22:48,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm$订阅源
+2026-02-28 18:22:55,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm$订阅源
@@ -10,8 +10,8 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118907726249067180.m3u8?a
 📡卫视频道,#genre#
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=$订阅源
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$订阅源
-东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$订阅源
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$订阅源
